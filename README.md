@@ -9,3 +9,5 @@ Step 3- Go to chrome://extensions/ (for chrome browsers)
 Step 4- Activate "developper mode"  
 Step 5- Click on "load unpacked", then load the unzipped folder    
 Step 6- You're good to go !  
+  
+If the paywall is still visible, just reload the website (control + R)  
