@@ -1,8 +1,7 @@
 // Fichier manifest.json
 {
   "manifest_version": 2,
-  "name": "Kartable Overlay Remover",
-  "description": "Cette extension supprime les overlays de la page Kartable",
+  "name": "Kartable Bypasser",
   "version": "1.0",
   
   "permissions": ["activeTab"],
