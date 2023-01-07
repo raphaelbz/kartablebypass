@@ -1,0 +1,18 @@
+// Fichier manifest.json
+{
+  "manifest_version": 2,
+  "name": "Kartable Overlay Remover",
+  "description": "Cette extension supprime les overlays de la page Kartable",
+  "version": "1.0",
+  
+  "permissions": ["activeTab"],
+  
+  "background": {
+    "scripts": ["background.js"]
+  },
+  
+  "content_scripts": [{
+    "matches": ["https://www.kartable.fr/ressources/*"],
+    "js": ["content.js"]
+  }]
+}
