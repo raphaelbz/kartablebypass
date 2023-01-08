@@ -1,6 +1,6 @@
 # Kartable Bypasser  
   
-A simple script that you can use to easily bypass Kartable.fr paywalls.
+A simple chrome extension that you can use to easily bypass Kartable.fr paywalls.
   
 # Installation Tutorial : 
   
