@@ -1,4 +1,4 @@
-# Kartable Bypasser ⚠️ Being Fixed⚠ ⚠️  
+# Kartable Bypasser ⚠️ Being Fixed⚠  
   
 A simple chrome extension that you can use to easily bypass Kartable.fr paywalls.
   
