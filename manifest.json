@@ -10,12 +10,6 @@
   "background": {
     "scripts": ["background.js"]
   },
-  "icons": {
-    "16": "icons/icon1.png",
-    "48": "icons/icon2.png",
-    "128": "icons/icon3.png"
-  },
-  
   "content_scripts": [{
     "matches": ["https://www.kartable.fr/ressources/*"],
     "js": ["content.js"]
