@@ -15,4 +15,5 @@ If the paywall is still visible (can sometimes happen), just reload the website 
   
 # To-DO  
   
+❌ Fix issue with scrolling disabled (working on this right now)
 ❌ Fix issue with paywall sometimes still visible. 
