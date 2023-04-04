@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      text-align: center;
+      padding: 10px;
+      background: linear-gradient(to bottom right, #5f0a87, #a4508b, #ff5a5f);
+      box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+    }
+
+    h3 {
+      font-size: 48px;
+      text-shadow: 2px 2px #e63b6f;
+      color: white;
+      margin-top: 50px;
+    }
+
+    p {
+      font-size: 24px;
+      color: white;
+      text-shadow: 1px 1px #e63b6f;
+      margin: 10px 0;
+    }
+
+    .glow {
+      font-size: 48px;
+      color: white;
+      text-shadow: 0 0 5px #e63b6f, 0 0 10px #e63b6f, 0 0 20px #e63b6f, 0 0 40px #e63b6f;
+      animation: glow 1s ease-in-out infinite alternate;
+    }
+
+    @keyframes glow {
+      from {
+        text-shadow: 0 0 10px #e63b6f, 0 0 20px #e63b6f, 0 0 40px #e63b6f, 0 0 80px #e63b6f;
+      }
+      to {
+        text-shadow: 0 0 20px #e63b6f, 0 0 40px #e63b6f, 0 0 80px #e63b6f, 0 0 160px #e63b6f;
+      }
+    }
+
+    .glitch {
+      animation: glitch 1s infinite;
+    }
+
+    @keyframes glitch {
+      0% {
+        transform: skew(0deg);
+      }
+      20% {
+        transform: skew(10deg);
+      }
+      40% {
+        transform: skew(-10deg);
+      }
+      60% {
+        transform: skew(10deg);
+      }
+      80% {
+        transform: skew(-10deg);
+      }
+      100% {
+        transform: skew(0deg);
+      }
+    }
+
+  </style>
+</head>
+<body>
+  <h3>Kartable Lesson Unlocker</h3>
+  <p>Exploited by <span class="glitch">Raafa</span></p>
+  <p>Coded by <span class="glow">GPT-4</span></p>
+</body>
+</html>
