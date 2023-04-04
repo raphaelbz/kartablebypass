@@ -1,4 +1,4 @@
-# Kartable Bypasser ⚠️ Being Fixed⚠  
+# Kartable Bypasser 🤝 V2 NOW AVALIABLE AND FULLY WORKING 🤝
   
 A simple chrome extension that you can use to easily bypass Kartable.fr paywalls.
   
@@ -15,5 +15,4 @@ If the paywall is still visible (can sometimes happen), just reload the website 
   
 # To-DO  
   
-❌ Fix issue with scrolling disabled (working on this right now)  
-❌ Fix issue with paywall sometimes still visible. 
+❌ Add pdf download option
