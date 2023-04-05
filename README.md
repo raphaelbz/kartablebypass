@@ -1,4 +1,4 @@
-# Kartable Bypasser 🤝 V2 NOW AVALIABLE AND FULLY WORKING 🤝
+# Kartable Bypasser 🤝 V2 FULLY WORKING 🤝
   
 A simple chrome extension that you can use to easily bypass Kartable.fr paywalls/copy and paste protection.
   
