@@ -1,11 +1,13 @@
 {
-  "manifest_version": 2,
+  "manifest_version": 3,
   "name": "Kartable Lesson Unlocker",
   "version": "1.0",
   "description": "Removes ad-wall, blur protection, anti-select text/copy, and reactivates scroll on kartable.fr lessons.",
   "permissions": [
-    "activeTab",
-    "https://www.kartable.fr/*"
+    "activeTab"
+  ],
+  "host_permissions": [
+    "https://www.kartable.fr/"
   ],
   "content_scripts": [
     {
@@ -15,7 +17,7 @@
       "js": ["content.js"]
     }
   ],
-  "browser_action": {
+  "action": {
     "default_popup": "popup.html"
   }
 }
